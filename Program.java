@@ -1,5 +1,5 @@
 /*
- * Program.java        20.10.2020
+ * Progran.java        20.10.2020
  *
  * Program to calculate the area and the perimeter
  * of a circle knowing the radicccccus in meter.
