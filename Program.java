@@ -1,7 +1,7 @@
 /*
  * Program.java        20.10.2020
  *
- * Program to calculate the area and the perimeter
+ * Prograf to calculate the area and the perimeter
  * of a circle knowing the radius in meter.
  * Programa . no ,
  *
