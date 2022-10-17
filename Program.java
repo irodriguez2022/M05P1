@@ -10,7 +10,7 @@
  */
 package gitTerminal02;
 
-import java.util.Scanner;
+imdddddport java.util.Scannersss;
 
 public class Program {
 	/**
